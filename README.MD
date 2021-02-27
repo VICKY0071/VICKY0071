@@ -4,7 +4,7 @@
 
 ## I'm a Student, Competetive Programmer, Developer, and Teacher!!
 
-- 🌱 I’m currently learning everything, focussing on DS and Alog and Machine Learning though. 🤣
+- 🌱 I’m currently learning everything, focussing on DS and Algo and Machine Learning though. 🤣
 - 👯 I’m looking to collaborate with other competetive programmer
 - 🥅 2021 Goals: Contribute more to Open Source projects and develop some good projects in the field of Convolutional Networks
 - ⚡ Fun fact: I love to code and play guitar and do magic.
