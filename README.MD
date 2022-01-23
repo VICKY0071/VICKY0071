@@ -27,7 +27,7 @@
 
 </details>
 
-[website]: http://vikas-thapliyal.netlify.app
+[website]: https://www.linkedin.com/in/sde-vikasthapliyal
 [twitter]: http://vikas-thapliyal.netlify.app
 [instagram]: https://www.instagram.com/coderr007/
 [linkedin]: https://www.linkedin.com/in/vikas-thapliyal-3a0521170/
